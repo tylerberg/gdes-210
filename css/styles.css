@@ -59,6 +59,10 @@ a:hover {
 
 /* utility classes */
 
+.wrapper {
+  height: 550px;
+}
+
 .mt40 {
   margin-top: 40px;
 }
@@ -119,6 +123,8 @@ nav {
 
 .no-class {
   color: #212529;
+  font-weight: 500;
+  padding-top: 30px;
 }
 
 .secondary-heading {
